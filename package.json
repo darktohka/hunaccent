@@ -1,6 +1,6 @@
 {
   "name": "hunaccent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Switches non-accented Hungarian words to accented Hungarian words.",
   "main": "dist/accentizer.js",
   "types": "dist/accentizer.d.ts",
