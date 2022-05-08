@@ -1,0 +1,29 @@
+{
+  "name": "@darktohka/hunaccent",
+  "version": "1.0.0",
+  "description": "Switches non-accented Hungarian words to accented Hungarian words.",
+  "main": "dist/accentizer.js",
+  "types": "dist/accentizer.d.ts",
+  "files": ["/dist"],
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darktohka/hunaccent.git"
+  },
+  "keywords": [
+    "hungarian",
+    "accentize"
+  ],
+  "author": "darktohka",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/darktohka/hunaccent/issues"
+  },
+  "homepage": "https://github.com/darktohka/hunaccent#readme"
+}
