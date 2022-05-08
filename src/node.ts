@@ -1,4 +1,4 @@
-import { window } from "accentmap";
+import { window } from "./accentmap";
 
 export default class Node {
   leaf: boolean;

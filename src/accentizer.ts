@@ -1,5 +1,5 @@
-import { accentMap, accentMapUpper, window } from "accentmap";
-import trees from "trees";
+import { accentMap, accentMapUpper, window } from "./accentmap";
+import trees from "./trees";
 
 export default class Accentizer {
   static accentize(input: string): string {
